@@ -31,6 +31,11 @@ A microservice skeleton in NestJS using Prisma ORM
 $ npm install
 ```
 
+## Running Migrations
+```bash
+$ npx prisma db push   
+```
+
 ## Running the app
 
 ```bash
